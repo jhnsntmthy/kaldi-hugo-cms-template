@@ -1,9 +1,9 @@
 ---
-title: Our Coffee
+title: MMM Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: What to offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -99,4 +99,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
